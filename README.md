@@ -87,6 +87,7 @@ I built my first full-stack app during finals week... and it worked 🎉
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumouri&theme=dracula" alt="GitHub Streak" />
 </p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sumouri/sumouri/output/snake.svg" alt="Snake animation" />
+
 
 ###
